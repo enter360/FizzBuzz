@@ -35,7 +35,7 @@ void FizzBuzz(int count){
     }
     
     
-    cout<<"Done Thank you"<<endl;
+    cout<<"Thank you"<<endl;
 }
 
 
